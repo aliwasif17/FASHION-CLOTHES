@@ -77,22 +77,22 @@
 
 /* Change image on hover */
 .card:hover .card-img1 {
-  content: url('/assets/images/image1.jpg');
+  content: url('./image1.jpg');
   /* New image URL on hover */
 }
 
 .card:hover .card-img2 {
-  content: url('/assets/images/image2.jpg');
+  content: url('./image2.jpg');
   /* New image URL on hover */
 }
 
 .card:hover .card-img3 {
-  content: url('/assets/images/image3.jpg');
+  content: url('./image3.jpg');
   /* New image URL on hover */
 }
 
 .card:hover .card-img4 {
-  content: url('/assets/images/image4.jpg');
+  content: url('./image4.jpg');
   /* New image URL on hover */
 }
 
